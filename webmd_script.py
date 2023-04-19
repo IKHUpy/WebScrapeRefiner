@@ -4,10 +4,6 @@ from unidecode import unidecode
 from bs4 import BeautifulSoup
 
 first_ = 'https://www.webmd.com/a-to-z-guides/health-topics'
-alpha_class = 'az-index-nav-letters'
-alpha_content_class = 'az-index-results-group-list'
-symptom_str = 'Symptoms '
-h2_str = '<h2 '
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
 }
