@@ -4,7 +4,7 @@ Welcome to the Web Data Scraper repository! This project is dedicated to extract
 
 # 💡 Key Features:
 
-## Utilizes HTML requests to efficiently scrape data from diverse websites
+Utilizes HTML requests to efficiently scrape data from diverse websites
 Gathers information exclusively from publicly available sources, respecting website owners' privacy and intentions
 Curates a comprehensive and up-to-date dataset for the SearchEngine repository
 Employs advanced web scraping techniques to handle complex website structures
